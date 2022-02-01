@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ReallySmartBrain/.idea/ReallySmartBrain.iml" filepath="$PROJECT_DIR$/../ReallySmartBrain/.idea/ReallySmartBrain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../email-playground/.idea/email-playground.iml" filepath="$PROJECT_DIR$/../email-playground/.idea/email-playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/image-playground.iml" filepath="$PROJECT_DIR$/.idea/image-playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myProject/.idea/myProject.iml" filepath="$PROJECT_DIR$/../myProject/.idea/myProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../passwordchecker/.idea/passwordchecker.iml" filepath="$PROJECT_DIR$/../passwordchecker/.idea/passwordchecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pdf-playground-2/.idea/pdf-playground-2.iml" filepath="$PROJECT_DIR$/../pdf-playground-2/.idea/pdf-playground-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Django 2.2 &amp; Python  The Ultimate Web Development Bootcamp ( 2 )/portfolio-project/.idea/portfolio.iml" filepath="$PROJECT_DIR$/../../Django 2.2 &amp; Python  The Ultimate Web Development Bootcamp ( 2 )/portfolio-project/.idea/portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Django 2.2 &amp; Python  The Ultimate Web Development Bootcamp ( 2 )/producthunt-project/.idea/producthunt-project.iml" filepath="$PROJECT_DIR$/../../Django 2.2 &amp; Python  The Ultimate Web Development Bootcamp ( 2 )/producthunt-project/.idea/producthunt-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rsbot/.idea/rsbot.iml" filepath="$PROJECT_DIR$/../rsbot/.idea/rsbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../selenium_intro/.idea/selenium_intro.iml" filepath="$PROJECT_DIR$/../selenium_intro/.idea/selenium_intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../textme/.idea/textme.iml" filepath="$PROJECT_DIR$/../textme/.idea/textme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web_server/.idea/web_server.iml" filepath="$PROJECT_DIR$/../web_server/.idea/web_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webscraping/.idea/webscraping.iml" filepath="$PROJECT_DIR$/../webscraping/.idea/webscraping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Django 2.2 &amp; Python  The Ultimate Web Development Bootcamp ( 2 )/wordcount-project/.idea/wordcount.iml" filepath="$PROJECT_DIR$/../../Django 2.2 &amp; Python  The Ultimate Web Development Bootcamp ( 2 )/wordcount-project/.idea/wordcount.iml" />
+    </modules>
+  </component>
+</project>
